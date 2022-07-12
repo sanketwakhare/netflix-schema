@@ -6,3 +6,12 @@ CREATE DATABASE
 `postgres=# grant all privileges on database netflix__schema to sanket;`
 
 GRANT
+
+---
+### Class Diagram
+![img.png](class_diagram.png)
+
+---
+### Schema Diagram
+
+TODO
